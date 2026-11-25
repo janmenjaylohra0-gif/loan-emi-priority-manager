@@ -1,3 +1,5 @@
+**PPT:** https://drive.google.com/file/d/1mlkBog2B6fanzrXbr5ORS-9B_UVU9vT9/view?usp=sharing
+**Report:** 
 # Loan EMI Priority Manager
 
 A console-based Java program that manages loan applications and processes the most urgent ones first.
